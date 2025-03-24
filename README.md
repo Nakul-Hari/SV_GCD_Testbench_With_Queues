@@ -136,10 +136,6 @@ The simulation was executed using **Synopsys VCS**. The terminal output includes
 This testbench design demonstrates a structured and scalable approach to hardware verification using **SystemVerilog classes**, **queues**, and **interfaces**. It ensures robust testing through randomized stimulus, reference model checking, and automated scoreboarding.
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-
 ## Acknowledgments
 This implementation is part of the course work for EE5530 Principles of SoC Functional Verification
 
